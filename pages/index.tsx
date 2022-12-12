@@ -9,7 +9,7 @@ export default function Home() {
         <title>ChochoTech Next Tutorial</title>
       </Head>
       <Link href="/about">About</Link>
-      <h1>Hello World</h1>
+      <h1 style={{color:"red"}}>Hello World</h1>
      
     </div>
   );
